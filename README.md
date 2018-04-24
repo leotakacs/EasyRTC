@@ -1,6 +1,6 @@
 # EasyRTC
 
-customized FireRTC plugin made for scam baiting
+Customized FireRTC plugin made for scam baiting
 
 ## Caller ID text box 
 
